@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Embedding-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedding-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Embedding-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedding-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedding-Management/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedding-Management?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -61,7 +61,7 @@ Below is a curated comparison of leading SaaS embedding management products, sor
 
 These open-source tools provide complete self-hosted vector infrastructure, custom embedding pipelines, and data privacy without per-vector SaaS pricing.
 
-Sorted by **GitHub Star Count (descending)** 🌟:
+Sorted by **GitHub Stars_Count (descending)** 🌟:
 
 1. 🦜 **[LangChain](https://github.com/langchain-ai/langchain)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
    Building applications with LLMs through composable memory, vector stores, chunking strategies, and embedding integrations. Python/JS. MIT. 🛠️
